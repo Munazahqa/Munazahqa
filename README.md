@@ -51,3 +51,10 @@
 ---
 
 ⭐️ *“From raw data to intelligent agents — building the next wave of AI-powered systems.”*  
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Munazahqa/Munazahqa/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Munazahqa/Munazahqa/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Munazahqa/Munazahqa/output/github-contribution-grid-snake.svg">
+</picture>
