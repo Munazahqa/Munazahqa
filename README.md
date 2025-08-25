@@ -9,19 +9,19 @@
 - 🔬 Multi-Agent Systems, Agent-to-Agent (A2A) communication, and Model Context Protocol (MCP)  
 - 📚 Retrieval-Augmented Generation (RAG) pipelines and advanced LLM applications  
 - ⚙️ End-to-End AI Data Pipelines:  
-  - 📡 Working with APIs for data ingestion  
-  - 📂 Storing raw data in **MongoDB**  
-  - 🧹 Performing **data wrangling & preprocessing**  
-  - 🗄️ Saving structured data in **PostgreSQL**  
-  - 🤖 Applying AI models and integrating external APIs  
-  - 🔁 Writing results back into databases  
-  - 🎨 Serving intelligent insights to **frontends via APIs**
-  - 🔬 Exploring **GenAI research areas** including **multi-agent orchestration, agent-to-agent communication, and retrieval-augmented systems**  
+- 📡 Working with APIs for data ingestion  
+- 📂 Storing raw data in **MongoDB**  
+- 🧹 Performing **data wrangling & preprocessing**  
+- 🗄️ Saving structured data in **PostgreSQL**  
+- 🤖 Applying AI models and integrating external APIs  
+- 🔁 Writing results back into databases  
+- 🎨 Serving intelligent insights to **frontends via APIs**
+- 🔬 Exploring **GenAI research areas** including **multi-agent orchestration, agent-to-agent communication, and retrieval-augmented systems**  
 - 🎤 Active in **tech leadership & teaching** (IEEE WIE Head, TA in Data Science, DLD, and Accounting Fundamentals)  
 ---
 
 ### 🛠 Skills & Tools
-- **Programming: Python · C++· C · JavaScript · HTML/CSS  
+- **Programming:** Python · C++· C · JavaScript · HTML/CSS  
 - **AI/ML:** PyTorch · TensorFlow · Scikit-learn . RAG Pipelines
 - **GenAI & Agents:** OpenAI API · LangChain . LangGraph . Multi-Agent Systems · MCP . A2A
 - **Databases:** MongoDB · PostgreSQL 
