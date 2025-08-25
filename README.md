@@ -1,8 +1,8 @@
 # Hi there, I'm Munazah 👋  
 
-💡 **AI Engineer @ Bluescarf (Full-Time) | GenAI Engineer @ Mosaic AI (Part-Time)**  
-🎓 Graduated in **BS Computer Science(2021-2025) from Fast Nuces**  
-🌍 Passionate about **Artificial Intelligence, Generative AI solutions**  
+- 💡 **AI Engineer @ Bluescarf (Full-Time) | GenAI Engineer @ Mosaic AI (Part-Time)**  
+- 🎓 Graduated in **BS Computer Science(2021-2025) from Fast Nuces**  
+- 🌍 Passionate about **Artificial Intelligence, Generative AI solutions**  
 ---
 
 ### 🌱 What I’m Exploring & Building
@@ -21,26 +21,26 @@
 ---
 
 ### 🛠 Skills & Tools
-**Programming:** Python · C++· C · JavaScript · HTML/CSS  
-**AI/ML:** PyTorch · TensorFlow · Scikit-learn . RAG Pipelines
-**GenAI & Agents:** OpenAI API · LangChain . LangGraph . Multi-Agent Systems · MCP . A2A
-**Databases:** MongoDB · PostgreSQL 
-**Cloud & DevOps:** Docker · Kubernetes · FastAPI · Flask · Streamlit · AWS  
-**Other Tools:** Git · Power BI · Wireshark · Cisco Packet Tracer · LaTeX  
+- **Programming: Python · C++· C · JavaScript · HTML/CSS  
+- **AI/ML:** PyTorch · TensorFlow · Scikit-learn . RAG Pipelines
+- **GenAI & Agents:** OpenAI API · LangChain . LangGraph . Multi-Agent Systems · MCP . A2A
+- **Databases:** MongoDB · PostgreSQL 
+- **Cloud & DevOps:** Docker · Kubernetes · FastAPI · Flask · Streamlit · AWS  
+- **Other Tools:** Git · Power BI · Wireshark · Cisco Packet Tracer · LaTeX  
 ---
 
 ### 🏆 Achievements
-- 🎓 **Graduated in BSCS (2025)**  
-- 🥉 **Bronze Medalist (Spring 2024)**  
-- 🏆 **Zindagi Prize 2025 – Campus Round Winner**  
-- 🌍 **ICPC 2024 – Ranked 116th across Asia** 
-- 🎤 **Former IEEE WIE Head** & multiple **Teaching Assistant roles**  
+- 🎓 Graduated in BSCS (2025)
+- 🥉 Bronze Medalist (Spring 2024)
+- 🏆 Zindagi Prize 2025 – Campus Round Winner
+- 🌍 ICPC 2024 – Ranked 116th across Asia 
+- 🎤 Former IEEE WIE Head & multiple Teaching Assistant roles
 ---
 
 ### 📊 GitHub Stats
 ![Munazah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Munazahqa&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Munazahqa&theme=radical&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Munazahqa&theme=radical&hide_border=false)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Munazahqa&layout=compact&theme=radical)
 ---
