@@ -40,7 +40,6 @@
 ### 📊 GitHub Stats
 ![Munazah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Munazahqa&show_icons=true&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Munazahqa&theme=radical&hide_border=false)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Munazahqa&layout=compact&theme=radical)
 ---
@@ -53,8 +52,3 @@
 ⭐️ *“From raw data to intelligent agents — building the next wave of AI-powered systems.”*  
 ### 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Munazahqa/Munazahqa/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Munazahqa/Munazahqa/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Munazahqa/Munazahqa/output/github-contribution-grid-snake.svg">
-</picture>
