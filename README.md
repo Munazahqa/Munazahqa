@@ -3,7 +3,6 @@
 💡 **AI Engineer @ Bluescarf (Full-Time) | GenAI Engineer @ Mosaic AI (Part-Time)**  
 🎓 Graduated in **BS Computer Science(2021-2025) from Fast Nuces**  
 🌍 Passionate about **Artificial Intelligence, Generative AI solutions**  
-
 ---
 
 ### 🌱 What I’m Exploring & Building
@@ -28,19 +27,7 @@
 **Databases:** MongoDB · PostgreSQL 
 **Cloud & DevOps:** Docker · Kubernetes · FastAPI · Flask · Streamlit · AWS  
 **Other Tools:** Git · Power BI · Wireshark · Cisco Packet Tracer · LaTeX  
-
 ---
-### 📂 Projects
-- **Proactive Auto-Scaling System (FYP)** – TCN-based predictor for HTTP traffic, reducing latency compared to Kubernetes HPA. Integrated with **Docker, Minikube, and Prometheus**.  
-- **PSX Stock Price Predictor** – Built custom macroeconomic dataset to predict closing prices for 13 PSX-listed companies with improved accuracy.  
-- **Exam Scheduling App** – Automated scheduling system using Python for academic exams.  
-- **Yeast Protein Classification** – Applied Random Forest for multilabel GO term prediction.  
-- **Tour & Travel Management System** – Web-based travel planning system.  
-- **Traffic Light Controller** – Logic-gate system for optimized traffic flow.  
-- **GPA Calculator** – Web-based personal GPA computation tool.  
-
----
-
 
 ### 🏆 Achievements
 - 🎓 **Graduated in BSCS (2025)**  
@@ -48,19 +35,19 @@
 - 🏆 **Zindagi Prize 2025 – Campus Round Winner**  
 - 🌍 **ICPC 2024 – Ranked 116th across Asia** 
 - 🎤 **Former IEEE WIE Head** & multiple **Teaching Assistant roles**  
-
 ---
-### 📊 GitHub Stats
-![Munazah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Munazahqa&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Munazahqa&layout=compact&theme=radical)
 
+### 📊 GitHub Stats
+![Munazah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Munazahqa&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Munazahqa&theme=radical&hide_border=false)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Munazahqa&layout=compact&theme=radical)
 ---
 
 ### 🌐 Connect with Me
-- 💼 [LinkedIn](https://linkedin.com/in/munazah-mehdi)  
-- 🐦 [Twitter](https://twitter.com/YOUR_PROFILE)  
+- 💼 **LinkedIn:** [Munazah Mehdi](https://linkedin.com/in/munazah-mehdi)   
 - 📧 **Email:** munazahmehdii@gmail.com  
-
 ---
 
 ⭐️ *“From raw data to intelligent agents — building the next wave of AI-powered systems.”*  
